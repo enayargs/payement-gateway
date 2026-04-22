@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.vscode/
+.idea/
+.DS_Store
+*.log-e "node_modules/\npackage-lock.json\n.env\n.env.local\ndist/\nbuild/\n.vscode/\n.idea/\n.DS_Store\n*.log" 
